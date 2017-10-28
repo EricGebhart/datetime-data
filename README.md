@@ -8,6 +8,8 @@ Regardless of the date given the return is a map with all of the above for the g
 
 ## Usage
 
+lein: `[org.eag.datetime-data "0.1.0"]`
+
 See the tests.
 
 ## License

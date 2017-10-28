@@ -1,4 +1,4 @@
-(ns datetime-data.core
+(ns org.eag.datetime-data.core
   (:require [clj-time.coerce :as tc]
             [clj-time.core :as t]
             [clj-time.format :as tf]

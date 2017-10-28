@@ -1,7 +1,7 @@
-(ns datetime-data.core-test
+(ns org.eag.datetime-data.core-test
   (:require [clj-time.coerce :as tc]
             [midje.sweet :refer :all]
-            [datetime-data.core :refer :all]))
+            [org.eag.datetime-data.core :refer :all]))
 
 (defn str-date [iso-date]
   (:date (extract-date :iso-date iso-date)))
